@@ -12,3 +12,8 @@ packages:
   gitUrl: https://gitlab.com/ArtiKhareGitlab
   gitUsername: ArtiKhareGitlab
   gitBranch: master
+- name: AzRepoMultiplyPackage
+  gitServerName: srcCtrl_shared_AzRepos_Arti
+  gitUrl: https://dev.azure.com/ArtiKhare/AzRepoMultiplyPackage/_git
+  gitUsername: ArtiKhare
+  gitBranch: main
